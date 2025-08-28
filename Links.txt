@@ -1,0 +1,8 @@
+1) R:
+
+https://cran.r-project.org/bin/windows/base/
+
+
+2) R-Studio (Versión free):
+
+https://posit.co/downloads/
